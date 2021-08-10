@@ -4,3 +4,4 @@ Adds a new brown dwarf called Erruel
 Dependency = Kopernicus
 Supported mod
 Scatter
+Is discontinued
